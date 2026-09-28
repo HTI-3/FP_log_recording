@@ -9,8 +9,7 @@ NAND, EEPROM or any other non-volatile store; a battery-out cold boot reverts
 everything. The one exception is a `menu Set…` command, which writes a camera
 *setting* and does persist — see `docs/cards/tonedrive.md`.
 
-Built on [ijigen/fpSup](https://github.com/ijigen/fpSup), checked out at
-`resources/fp_sup`.
+Built on [ijigen/fpSup](https://github.com/ijigen/fpSup), 
 
 ---
 
