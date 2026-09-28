@@ -1,4 +1,4 @@
-# fpLog
+# fpLog - NOT WORKING
 
 Recording a log-encoded picture on the SIGMA fp, from the SD card, in RAM only.
 
